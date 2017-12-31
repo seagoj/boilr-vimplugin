@@ -1,1 +1,1 @@
-
+" after/plugin/{{PluginName}}.vim

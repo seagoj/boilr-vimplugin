@@ -1,1 +1,1 @@
-" {{PluginName}}.vim
+" plugin/{{PluginName}}.vim

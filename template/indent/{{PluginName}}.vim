@@ -1,1 +1,1 @@
-
+" indent/{{PluginName}}.vim

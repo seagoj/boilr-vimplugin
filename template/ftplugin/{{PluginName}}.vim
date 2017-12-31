@@ -1,1 +1,1 @@
-
+" ftplugin/{{PluginName}}.vim
